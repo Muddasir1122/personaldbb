@@ -1,5 +1,4 @@
 [
   { "id": 1, "name": "John Doe" },
-  { "id": 2, "name": "Jane Smith" },
-  // More objects...
+  { "id": 2, "name": "Jane Smith" }
 ]
